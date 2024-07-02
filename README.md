@@ -8,7 +8,7 @@ Este repositório contém apenas um código que é uma base comum e essencial pa
 
 ## Conteúdo
 
-- `base_financeiro.py`: Um script base que fornece funcionalidades essenciais para projetos de análise financeira, incluindo funções para leitura de dados, cálculos básicos e visualização de resultados.
+Um script base que fornece funcionalidades essenciais para projetos de análise financeira, incluindo funções para leitura de dados, cálculos básicos e visualização de resultados.
 
 ## Outros Projetos
 
